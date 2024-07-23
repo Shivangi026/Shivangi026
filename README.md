@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Java and Algorithms**
 
-- 💬 Ask me about **" Java, DSA, SQL, HTML"**
-
 - 🌱 I’m currently learning **DSA and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shivangi026/Shivangi026](https://github.com/Shivangi026/Shivangi026)
+
+- 💬 Ask me about **" Java, DSA, SQL, HTML"**
 
 - 📫 How to reach me **shivangi.0826singh@gmail.com**
 
